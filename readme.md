@@ -9,7 +9,7 @@ Este proyecto es un laboratorio de aprendizaje de **Python, Flask, Docker, vis.j
 
 - 🎨 **Grafo interactivo** de tus canciones “Me gusta”  
   - Nodos azules → canciones favoritas  
-  - Nodos verdes → recomendaciones sugeridas (Claude Desktop o mock)  
+  - Nodos verdes → recomendaciones sugeridas (Claude Desktop)  
   - Aristas moradas → representan relaciones entre canciones  
   - Grosor de aristas → refleja la fuerza de relación (artista, género, colaboraciones, BPM, popularidad)
 
